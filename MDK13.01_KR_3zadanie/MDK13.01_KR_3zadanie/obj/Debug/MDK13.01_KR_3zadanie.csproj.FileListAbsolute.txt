@@ -1,0 +1,7 @@
+C:\Users\Scoundrel\source\repos\MDK13.01_KR_3zadanie\MDK13.01_KR_3zadanie\bin\Debug\MDK13.01_KR_3zadanie.exe.config
+C:\Users\Scoundrel\source\repos\MDK13.01_KR_3zadanie\MDK13.01_KR_3zadanie\bin\Debug\MDK13.01_KR_3zadanie.exe
+C:\Users\Scoundrel\source\repos\MDK13.01_KR_3zadanie\MDK13.01_KR_3zadanie\bin\Debug\MDK13.01_KR_3zadanie.pdb
+C:\Users\Scoundrel\source\repos\MDK13.01_KR_3zadanie\MDK13.01_KR_3zadanie\obj\Debug\MDK13.01_KR_3zadanie.csproj.AssemblyReference.cache
+C:\Users\Scoundrel\source\repos\MDK13.01_KR_3zadanie\MDK13.01_KR_3zadanie\obj\Debug\MDK13.01_KR_3zadanie.csproj.CoreCompileInputs.cache
+C:\Users\Scoundrel\source\repos\MDK13.01_KR_3zadanie\MDK13.01_KR_3zadanie\obj\Debug\MDK13.01_KR_3zadanie.exe
+C:\Users\Scoundrel\source\repos\MDK13.01_KR_3zadanie\MDK13.01_KR_3zadanie\obj\Debug\MDK13.01_KR_3zadanie.pdb

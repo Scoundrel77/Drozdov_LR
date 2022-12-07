@@ -1,0 +1,7 @@
+C:\Users\Scoundrel\source\repos\MDK13.01ch2\MDK13.01ch2\bin\Debug\MDK13.01ch2.exe.config
+C:\Users\Scoundrel\source\repos\MDK13.01ch2\MDK13.01ch2\bin\Debug\MDK13.01ch2.exe
+C:\Users\Scoundrel\source\repos\MDK13.01ch2\MDK13.01ch2\bin\Debug\MDK13.01ch2.pdb
+C:\Users\Scoundrel\source\repos\MDK13.01ch2\MDK13.01ch2\obj\Debug\MDK13.01ch2.csproj.AssemblyReference.cache
+C:\Users\Scoundrel\source\repos\MDK13.01ch2\MDK13.01ch2\obj\Debug\MDK13.01ch2.csproj.CoreCompileInputs.cache
+C:\Users\Scoundrel\source\repos\MDK13.01ch2\MDK13.01ch2\obj\Debug\MDK13.01ch2.exe
+C:\Users\Scoundrel\source\repos\MDK13.01ch2\MDK13.01ch2\obj\Debug\MDK13.01ch2.pdb
